@@ -343,3 +343,12 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/641
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="https://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/642
+
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="https://seeklogo.com/images/T/ten-sports-logo-9544E367EB-seeklogo.com.gif" group-title="Sports",Ten Sports
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/786
+
+#EXTINF:-1 tvg-id="" tvg-name="Barca Tv" tvg-logo="https://artwork.espncdn.com/media/9860e67d-b413-413d-a413-6032be024747/16x9/1280x720_20200408205449.jpg" group-title="Sports",Barca Tv
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/787
+
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid " tvg-logo="https://lh3.googleusercontent.com/proxy/k4HszUEKuYBlhsbhMGo9tCwu3WkkgwLr-n7-_gUaY4q9LSvY7-wuhas6uhdoR3OFG7bXwJIoncjGOXPXjarjZ1HtAQnlySO45C7vsRIUV_VycMC73Q" group-title="Sports",Real Madrid 
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/639
