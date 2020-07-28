@@ -37,8 +37,8 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/771
 #EXTINF:-1 tvg-id="" tvg-name="Masranga" tvg-logo="http://maasranga.tv/wp-content/uploads/2016/02/logo1.gif" group-title="Bangla",Masranga
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/130
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="BDIX01",Channel 9
-PT1BTzFOVGJ1TTNhdVZIYWo5U09meFdadTVXWW9OMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="JADOO LIVE",CHANNEL 9 [BD]
+https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Asian Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangla",Asian Tv
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/91
@@ -63,6 +63,7 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/193
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Bangla",Zee Bangla
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/192
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Bangla",Zee Bangla HD
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/865
 
