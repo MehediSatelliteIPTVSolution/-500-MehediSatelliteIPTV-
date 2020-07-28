@@ -334,3 +334,12 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/753
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Football" tvg-logo="https://s.cafebazaar.ir/1/icons/com.bskyb.fbscore_512x512.png" group-title="Sports",Sky Football
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/194
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/640
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="https://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/641
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="https://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/642
