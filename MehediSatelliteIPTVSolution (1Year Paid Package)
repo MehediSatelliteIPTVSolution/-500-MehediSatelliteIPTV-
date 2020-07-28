@@ -344,6 +344,15 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/641
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="https://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/642
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4" tvg-logo="https://i.ya-webdesign.com/images/espn-logo-png-2.png" group-title="Sports",beIN Sports 4
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/96
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 11" tvg-logo="https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" group-title="Sports",beIN Sports 11
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/199
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 12" tvg-logo="https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" group-title="Sports",beIN Sports 12
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/120
+
 #EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="https://seeklogo.com/images/T/ten-sports-logo-9544E367EB-seeklogo.com.gif" group-title="Sports",Ten Sports
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/786
 
