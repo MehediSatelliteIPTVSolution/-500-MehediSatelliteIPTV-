@@ -299,6 +299,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/791
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://static.iptv-epg.com/au/CGTN.au.png" group-title="News",CGTN
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/726
 
+#EXTINF:-1 tvg-id="" tvg-name="GEO news" tvg-logo="https://banner2.cleanpng.com/20180515/kxe/kisspng-pakistan-geo-news-geo-tv-geo-super-television-5afaba0d47fc47.8869878015263810692949.jpg" group-title="Urdu",GEO news
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/793
+
 #EXTINF:-1 tvg-id="" tvg-name="abc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/1200px-ABC_News_solid_black_logo.svg.png" group-title="News",abc News
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/218
 
