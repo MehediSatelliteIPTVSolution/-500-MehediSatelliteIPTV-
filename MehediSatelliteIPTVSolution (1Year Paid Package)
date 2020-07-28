@@ -100,7 +100,6 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/105
 #EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="https://www.pngjoy.com/pngm/352/6566172_zoom-logo-zoom-event-png-download.png" group-title="Hindi",Zoom
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/159
 
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/634
 #EXTINF:-1 tvg-id="" tvg-name="&Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AndTV_Logo.jpg/160px-AndTV_Logo.jpg" group-title="Hindi",&Tv
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/636
 
@@ -159,8 +158,10 @@ https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png" group-title="Hindi",Sony Max 
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/868
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony MAX HD" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Hindi",Sony MAX HD
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/147
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/Sony_Max_2_%28Logo%29.svg/revision/latest/top-crop/width/220/height/220?cb=20200125181335" group-title="Hindi",Sony Max 2
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/186
 
@@ -241,6 +242,7 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/662
 
 #EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Hindi",9xM
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/721
+
 #EXTINF:-1 tvg-id="" tvg-name="9x Jalwa" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Hindi",9x Jalwa
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/722
 
