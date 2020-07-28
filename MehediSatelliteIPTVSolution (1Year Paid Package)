@@ -361,3 +361,12 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/787
 
 #EXTINF:-1 tvg-id="" tvg-name="Real Madrid " tvg-logo="https://lh3.googleusercontent.com/proxy/k4HszUEKuYBlhsbhMGo9tCwu3WkkgwLr-n7-_gUaY4q9LSvY7-wuhas6uhdoR3OFG7bXwJIoncjGOXPXjarjZ1HtAQnlySO45C7vsRIUV_VycMC73Q" group-title="Sports",Real Madrid 
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/639
+
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/220px-Eurosport_Logo_2015.svg.png" group-title="Sports",Euro Sports 
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/718
+
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sports 2" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1150.1447433758.png" group-title="Sports",Euro Sports 2
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/866
+
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sports",Olympic Channel
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/719
