@@ -229,8 +229,8 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/645
 #EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="https://logodix.com/logo/900709.png" group-title="Kids",Nick
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/201
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="KS",Nick
-https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/148
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="KS",Nick Jr
 https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
