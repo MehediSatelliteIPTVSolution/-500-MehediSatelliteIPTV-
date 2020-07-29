@@ -118,6 +118,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/682
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ceKNpFn.png" group-title="KS",Ary Asia https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
 
+#EXTINF:-1 ,Star Jalsha Movies
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla",Jalsha Movies
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/203
 
