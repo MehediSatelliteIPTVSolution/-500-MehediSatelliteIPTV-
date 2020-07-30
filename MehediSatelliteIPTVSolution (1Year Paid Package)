@@ -151,6 +151,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/156
 #EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Movies",Fox Movies
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/119
 
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Entertainment",Blue Ant Entertainment
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/215
+
 #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="Entertainment",Warner
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/157
 
