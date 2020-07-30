@@ -136,6 +136,9 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="Movies",HBO
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/124
 
+#EXTINF:-1 tvg-id="" tvg-name="MN" tvg-logo="https://img.favpng.com/25/16/10/movies-now-television-channel-high-definition-television-mn-png-favpng-wqDfzyxuM8zhBuvMSSYXiwwuu.jpg" group-title="Movies",MN
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/135
+
 #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="Entertainment",Warner
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/157
 
