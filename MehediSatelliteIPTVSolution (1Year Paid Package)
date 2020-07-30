@@ -139,6 +139,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/124
 #EXTINF:-1 tvg-id="" tvg-name="MN" tvg-logo="https://img.favpng.com/25/16/10/movies-now-television-channel-high-definition-television-mn-png-favpng-wqDfzyxuM8zhBuvMSSYXiwwuu.jpg" group-title="Movies",MN
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/135
 
+#EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_fR_MvZpuVo_-EDxTSl8C0jG_m23DAmSBOWQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Movies",MNX
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/134
+
 #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="Entertainment",Warner
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/157
 
