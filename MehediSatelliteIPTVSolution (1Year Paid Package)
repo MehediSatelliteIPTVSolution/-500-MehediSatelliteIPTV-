@@ -82,6 +82,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/152
 #EXTINF:-1 tvg-id="" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="Hindi",Star Bharat
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/774
 
+#EXTINF:-1 tvg-id="" tvg-name="Zee Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee Tv
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/217
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee TV HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_446/PORTRAIT/CMqUe8No.png" group-title="Hindi",Zee TV HD
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/780
 
