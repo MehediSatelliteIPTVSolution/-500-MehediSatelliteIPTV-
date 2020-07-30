@@ -265,6 +265,11 @@ https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="KS",Nick
 https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://d1xfgk3mh635yx.cloudfront.net/sites/default/files/styles/original/public/image/featured/1016492-disney-channel-debut-new-worldwide-logo-and-air-look.jpg" group-title="Kids",Disney Channel
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/111
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="Kids",Disney Junior
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/202
 
 #EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://projapoti.live/img/channels/gaan-bangla.jpg" group-title="Bangla",Gaan Bangla
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/121
