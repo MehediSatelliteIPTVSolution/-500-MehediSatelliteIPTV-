@@ -154,6 +154,21 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/119
 #EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Entertainment",Blue Ant Entertainment
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/215
 
+#EXTINF:-1 tvg-id="" tvg-name="MBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Movies",MBC2
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/133
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="Entertainment",MBC Action
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/632
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="Movies",MBC Max
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/132
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="Movies",Cinemax
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/669
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="Entertainment",Warner
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/157
 
