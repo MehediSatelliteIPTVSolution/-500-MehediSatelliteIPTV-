@@ -98,6 +98,12 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/867
 #EXTINF:-1 tvg-id="" tvg-name="Sony Sab" tvg-logo="https://pbs.twimg.com/profile_images/884751550798675968/ephAG_WX_400x400.jpg" group-title="Hindi",Sony Sab
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/657
 
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="" group-title="Hindi",SONY PAL
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/781
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="Hindi",SONY WAH
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/782
+
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://4.bp.blogspot.com/-Hbi5cLg527g/WBh1i3l5t_I/AAAAAAAAKKg/CBWeocE-N6k_np0k-K9ZMp19N77rMCfKQCLcB/s1600/colors-tv-logo-list-of-colors-tv-serials-timings-trp-ratings-2016-new-upcoming-tv-shows.png" group-title="Hindi",Colors
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/105
 
