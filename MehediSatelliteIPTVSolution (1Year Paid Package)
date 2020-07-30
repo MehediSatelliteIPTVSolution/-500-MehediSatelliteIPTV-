@@ -254,6 +254,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/121
 #EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="Bangla",Sangeet Bangla
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/644
 
+#EXTINF:-1 tvg-id="" tvg-name="RTV Music" tvg-logo="https://yt3.ggpht.com/a/AGF-l78e56zJN4rIU5OsmjFkXVYsC9faK2OXHcyn6A=s900-c-k-c0xffffffff-no-rj-mo" group-title="Bangla",RTV Music
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/650
+
 #EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="https://www.exchange4media.com/news-photo/1520499305_cwcokX_B4U_MUSIC_LOGO_NEW.jpg" group-title="Hindi",B4U Music
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/93
 
