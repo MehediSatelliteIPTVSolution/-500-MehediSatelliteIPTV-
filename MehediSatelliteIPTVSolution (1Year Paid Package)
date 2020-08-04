@@ -319,6 +319,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/163
 #EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="Music",MTV Rocks
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/662
 
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/MTV_Dance_2017_logo.png/623px-MTV_Dance_2017_logo.png" group-title="Music",MTV Dance
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/160
+
 #EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xM
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/721
 
