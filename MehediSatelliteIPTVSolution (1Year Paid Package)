@@ -304,6 +304,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/111
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="Kids",Disney Junior
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/202
 
+#EXTINF:-1 tvg-id="" tvg-name="Sony Yay" tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="Kids",Sony Yay
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/734
+
 #EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://projapoti.live/img/channels/gaan-bangla.jpg" group-title="Music",Gaan Bangla
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/121
 
