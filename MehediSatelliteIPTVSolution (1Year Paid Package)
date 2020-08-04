@@ -13,6 +13,9 @@ https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla",Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NTv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla",NTv
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/142
+
 #EXTINF:-1 tvg-id="" tvg-name="RTv" tvg-logo="https://lh3.googleusercontent.com/RiRI3w6Tu0zfMOvIVHsV2keLlWvgs63EX4jqoDMZXB9Nu4Xv_116rvVjOOM7ZFT5pw" group-title="Bangla",RTv
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 
