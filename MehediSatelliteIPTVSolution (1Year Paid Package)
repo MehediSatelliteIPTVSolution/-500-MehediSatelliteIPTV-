@@ -255,20 +255,27 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi",4.JAMUNA TV
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="AMRBD LIVE",Star Sports 2 HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="AMRBD LIVE",Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="AMRBD LIVE",Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="AMRBD LIVE",Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="AMRBD LIVE",ESPN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN HD
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports PK
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Ib5FGfe.png" group-title="Sports",212.Ad Sports 2
 http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
