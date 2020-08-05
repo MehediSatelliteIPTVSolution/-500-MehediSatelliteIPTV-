@@ -92,7 +92,7 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA",Colors Bangla HD
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA",Ruposhi Bangla [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA",Ruposhi Bangla
 https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="HINDI ENT.",STAR PLUS
@@ -128,6 +128,9 @@ https://edge01.iptv.digijadoo.net/live/history_tv_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="ENGLISH MOVIES",MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="ENGLISH MOVIES",Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now
 http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
 
@@ -148,6 +151,9 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC Action FHD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="CCN",HBO
+http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="ENGLISH ENT.",Colors Infinity
 https://edge01.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
@@ -275,15 +281,20 @@ https://playlive.goonj.pk/geonewsweb_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="NEWS",DW
 http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="KS",CNN
+#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="NEWS",CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="NEWS",Al Jazeera
 https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/eIDDCKU.png" group-title="NEWS",Euro News
+http://45.126.83.51/qwr9ew/s/s15/index.m3u8
 
 
 
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1 HD
+http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
