@@ -156,8 +156,8 @@ http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 #EXTINF:-1 ,DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
-#EXTINF:-1 ,Ekattor TV
-https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",5.Ekattor
+http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
 
 #EXTINF:-1 ,Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
@@ -167,9 +167,6 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi",4.JAMUNA TV
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",5.Ekattor
-http://ctgiptv.kitv.live:1935/live/test/test1/11.t
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Ib5FGfe.png" group-title="Sports",212.Ad Sports 2
 http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
