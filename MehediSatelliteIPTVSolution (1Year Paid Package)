@@ -272,6 +272,18 @@ http://103.214.202.218:8081/live/jamuna/chunks.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/arBu6Kj.jpg" tvg-country="PK" tvg-url="" group-title="NEWS",Geo News
 https://playlive.goonj.pk/geonewsweb_480p/index.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="NEWS",DW
+http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="KS",CNN
+https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="NEWS",Al Jazeera
+https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
