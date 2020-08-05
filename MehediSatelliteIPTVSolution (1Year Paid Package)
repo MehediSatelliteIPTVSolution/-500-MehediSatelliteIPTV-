@@ -59,6 +59,9 @@ http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA",SA TV HD
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="AMRBD LIVE",CHANNEL 9 HD [BD]
+http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 
