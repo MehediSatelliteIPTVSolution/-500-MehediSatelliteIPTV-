@@ -58,6 +58,9 @@ http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA",BIJOY TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi",55.MOHONA TV
+https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="BANGLA",ANANDA TV [BD]
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
@@ -96,8 +99,12 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold (1)
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+
 #EXTINF:-1 ,STAR WORLD 
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
+
+title="English",188.WB TV
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 #EXTINF:-1 ,Sony Max
 https://itpolly.iptv.digijadoo.net/live/sony_max/chunks.m3u8
