@@ -73,7 +73,7 @@ https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA",Colors Bangla HD
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA ENT.",Ruposhi Bangla [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA",Ruposhi Bangla [IN]
 https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA CINEMA",Jalsha Movies [IN] (2)
@@ -115,6 +115,16 @@ https://itpolly.iptv.digijadoo.net/live/sony_max_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
 https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",98.8XM
+https://playlive.goonj.pk/8xmweb_480p/index.m3u8
+
+
+
+
+
 #EXTINF:-1 ,Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
@@ -127,8 +137,11 @@ https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 ,National Geographic
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 
-#EXTINF:-1 ,Discovery 
-https://itpolly.iptv.digijadoo.net/live/discovery/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",47.Nat Geo HD
+http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",48.Animal Planet
+http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 
 #EXTINF:-1 ,DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
@@ -138,3 +151,9 @@ https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 
 #EXTINF:-1 ,Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Ib5FGfe.png" group-title="Sports",212.Ad Sports 2
+http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports",210.Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
