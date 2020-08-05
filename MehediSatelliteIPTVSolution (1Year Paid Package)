@@ -117,3 +117,13 @@ https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:-1 ,Discovery 
 https://edge01.iptv.digijadoo.net/live/discovery/chunks.m3u8
+#EXTINF:-1 ,DBC News
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:-1 ,Duronto TV
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+
+#EXTINF:-1 ,Ekattor TV
+https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+
+#EXTINF:-1 ,Independent TV
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
