@@ -79,6 +79,12 @@ https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA CINEMA",Jalsha Movies [IN] (2)
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="AMRBD LIVE",MNX
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="AMRBD LIVE",Movies Now
+http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
 
@@ -96,6 +102,12 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC Action FHD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="AMRBD LIVE",& Prive HD
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="AMRBD LIVE",& Flix HD 
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold (1)
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
@@ -115,9 +127,15 @@ https://itpolly.iptv.digijadoo.net/live/sony_max_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
 https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="AMRBD LIVE",And Picture HD
+http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="AMRBD LIVE",Music Mastii
+http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="AMRBD LIVE",Zoom
+http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",98.8XM
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8
 
@@ -153,6 +171,13 @@ http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",48.Animal Planet
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="AMRBD LIVE",ANIMAL PLANET HD
+http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="AMRBD LIVE",NGC
+http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
+
+
 #EXTINF:-1 ,DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
@@ -167,6 +192,17 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi",4.JAMUNA TV
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="AMRBD LIVE",Star Sports 2 HD
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="AMRBD LIVE",Sony Ten 1 HD
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="AMRBD LIVE",Sony Ten 2 HD
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="AMRBD LIVE",Sony Ten 3 HD
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="AMRBD LIVE",ESPN HD
+http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Ib5FGfe.png" group-title="Sports",212.Ad Sports 2
 http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
