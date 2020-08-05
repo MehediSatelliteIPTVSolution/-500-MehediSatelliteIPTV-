@@ -110,3 +110,5 @@ https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 ,National Geographic
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+#EXTINF:-1 ,Discovery 
+https://edge01.iptv.digijadoo.net/live/discovery/chunks.m3u8
