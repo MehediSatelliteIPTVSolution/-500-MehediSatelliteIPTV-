@@ -288,7 +288,7 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
 #EXTINE:-0, Zee Cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/playlist.m3u8
+https://z5ams.akamaized.net/zeecinemame/index.m3u8?hdnts=st=1596736288~exp=1596739288~acl=/*~hmac=d8858a28b706d84d5f78d4f96d5fe06a644f7462e7dfced7a63df9e297114f50
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
