@@ -278,6 +278,9 @@ http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA CINEMA",Jalsha Movies
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
+#EXTINF:-0 group-title="BANGLA CINEMA",Zee Bangla Cinema 
+https://z5ams.akamaized.net/zbanglacnm/index.m3u8?hdnts=st=1596736558~exp=1596739558~acl=/*~hmac=a87c99ec7fd993b84abab788aedd6b41320b0f69a4066cac06c1e44f98744380
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES",Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 
