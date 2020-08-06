@@ -138,6 +138,9 @@ https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="HINDI ENT.",COLORS RISHTEY
 https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 
+#EXTINE:-1 ,MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="INFOTAINMENT",History TV HD
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/playlist.m3u8
 
