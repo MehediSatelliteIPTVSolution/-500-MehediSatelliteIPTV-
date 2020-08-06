@@ -335,8 +335,8 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonySIX.in.png" group-title="BDIX03",SONY SIX
-http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonySIX.in.png" group-title="Sports",SONY SIX
+https://edge4.bioscopelive.com/hls/anonymous/JxF0SIvmznY1QPGsvKuZ8Q/1596734005/sony_six.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN HD
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
@@ -358,9 +358,6 @@ http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 
 #EXTINF:-1 group-title="Sports",Real Madrid 
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Six HD
-https://edge4.bioscopelive.com/hls/anonymous/_SYHQkMyKxhYbzFbtiySuw/1596729686/sony_six.m3u8
 
 #EXTINF:-1 group-title="Sports", Ten Sports 1 
 https://edge4.bioscopelive.com/hls/anonymous/B3Es7KW5yhCLaTB_Aip5DQ/1596729781/ten_sports_1.m3u8
