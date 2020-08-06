@@ -117,13 +117,10 @@ https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="HINDI ENT.",Zee TV HD
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
-https://toffeelive.com/#video/ceeba9e62b8b32b561f56ec10859ff1a 
-
-#EXTINF:1, SONY TV HD
+#EXTINF:1, SONY PAL HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in.m3u8
 
 #EXTINF:-1 ,Sony SAB HD
@@ -232,7 +229,7 @@ https://z5ams.akamaized.net/out/v1/b7afb3da97a74d14b3b07b93fd5f48cc/index.m3u8?h
 
 
 #EXTINF:-1 ,Duronto TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8
 
 #EXTINF:-1 ,Nick Sonic Bangla
 https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
