@@ -96,10 +96,13 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla HD
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Sony Aath
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA ENT.",Ruposhi Bangla
 https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 
-#EXTINF:-1 , Peace TV
+#EXTINF:-0 , Peace TV
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/media_w84682331_2358.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="HINDI ENT.",STAR PLUS
@@ -356,16 +359,16 @@ http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
 #EXTINF:-1 group-title="Sports",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 
-#EXTINF:-1 group-title="Sports",Real Madrid 
+#EXTINF:-0 group-title="Sports",Real Madrid 
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 
-#EXTINF:-1 group-title="Sports", Ten Sports 1 
+#EXTINF:-0 group-title="Sports", Ten Sports 1 
 https://edge4.bioscopelive.com/hls/anonymous/B3Es7KW5yhCLaTB_Aip5DQ/1596729781/ten_sports_1.m3u8
 
-#EXTINF:-1 group-title="Sports", TEN SPORTS 2
+#EXTINF:-0 group-title="Sports", TEN SPORTS 2
 https://edge4.bioscopelive.com/hls/anonymous/Ppz9ATudxbwACKiX323Suw/1596729859/ten_sports_2.m3u8
 
-#EXTINE:-1, DD SPORTS
+#EXTINE:-0, DD SPORTS
 https://itpolly.iptv.digijadoo.net/live/dd_sports/playlist.m3u8
 
 
