@@ -352,3 +352,6 @@ http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports",210.Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+
+#EXTINF:-1, Real Madrid 
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
