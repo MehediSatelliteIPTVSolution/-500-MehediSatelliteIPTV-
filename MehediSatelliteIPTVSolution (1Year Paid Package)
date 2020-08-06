@@ -219,6 +219,10 @@ https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC",MTV Beats
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
+#EXTINE:-1 ,8X Jawla
+https://z5ams.akamaized.net/out/v1/b7afb3da97a74d14b3b07b93fd5f48cc/index.m3u8?hdnts=st=1596702020~exp=1596705020~acl=/*~hmac=353d0c3d7836a89ac4d45fdd3795b685e981b0e79873b6cb9abb3b336595ba9c
+
+
 
 #EXTINF:-1 ,Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
