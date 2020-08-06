@@ -223,14 +223,9 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="MUSIC",9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC",MTV Beats
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC",Zing
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
-#EXTINE:-1 ,8X Jawla
-https://z5ams.akamaized.net/out/v1/b7afb3da97a74d14b3b07b93fd5f48cc/index.m3u8?hdnts=st=1596702020~exp=1596705020~acl=/*~hmac=353d0c3d7836a89ac4d45fdd3795b685e981b0e79873b6cb9abb3b336595ba9c
-
-#EXTINE:-1 ,Zing
-https://z5ams.akamaized.net/zing/index.m3u8?hdnts=st=1596730047~exp=1596733047~acl=/*~hmac=cc99975ebf5a6c5bfa31a67f4333c4889a04e59fd4a59a3ede2614fb0d2f867f
 
 
 
