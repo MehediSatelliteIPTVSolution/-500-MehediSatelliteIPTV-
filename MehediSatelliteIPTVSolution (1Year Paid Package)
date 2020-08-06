@@ -316,7 +316,7 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
-#EXTINE:-1 ,Sony Six
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonySIX.in.png" group-title="BDIX03",SONY SIX
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/2020/08/06/03/59/13-10000.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN HD
