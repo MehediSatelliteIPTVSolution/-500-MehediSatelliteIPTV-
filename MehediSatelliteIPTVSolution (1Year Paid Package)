@@ -273,6 +273,8 @@ https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="HINDI MOVIES",Manoranjan Movies
+https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="NEWS",ATN NEWS TV
