@@ -290,6 +290,9 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
 https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
+https://itpolly.iptv.digijadoo.net/live/movies_ok/playlist.m3u8
+
 #EXTINE:-0, Zee Cinema
 https://z5ams.akamaized.net/zeecinemame/index.m3u8?hdnts=st=1596736288~exp=1596739288~acl=/*~hmac=d8858a28b706d84d5f78d4f96d5fe06a644f7462e7dfced7a63df9e297114f50
 
