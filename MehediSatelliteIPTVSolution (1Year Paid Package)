@@ -239,6 +239,9 @@ https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC",MTV Beats
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
+#EXTINF:-1 group-title="MUSIC",Vh1
+http://172.20.1.1:8081/live/mtv-14/chunks.m3u8?nimblesessionid=40540680&wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjAgMzo0Mzo0OSBQTSZoYXNoX3ZhbHVlPUFDZ3V1RWlTdndDR29mbXU2L3hMWlE9PSZ2YWxpZG1pbnV0ZXM9MTgw
+
 #EXTINE:-1 ,Zing
 https://z5ams.akamaized.net/zing/index.m3u8?hdnts=st=1596730047~exp=1596733047~acl=/*~hmac=cc99975ebf5a6c5bfa31a67f4333c4889a04e59fd4a59a3ede2614fb0d2f867f
 
