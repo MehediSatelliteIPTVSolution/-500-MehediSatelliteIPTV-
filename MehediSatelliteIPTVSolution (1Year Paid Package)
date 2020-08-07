@@ -7,7 +7,7 @@ http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",Sangsad TV
 https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
-#EXTINF:-1, BTV CHATTOGRAM
+#EXTINF:-1 group-title="BANGLA", BTV CHATTOGRAM
 http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8
 
 
@@ -23,7 +23,7 @@ https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA ENT.",NTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
 https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV UK
@@ -253,16 +253,16 @@ https://z5ams.akamaized.net/zing/index.m3u8?hdnts=st=1596730047~exp=1596733047~a
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="JADOO LIVE",DURONTO TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="Kids",DURONTO TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="JADOO LIVE",DURONTO TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="Kids",DURONTO TV 
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8
 
-#EXTINF:-1 ,Nick Sonic Bangla
+#EXTINF:-1 group-title="Kids",Nick Sonic Bangla
 https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
 
-#EXTINF:-1 ,Nick JR.
+#EXTINF:-1 group-title="Kids",,Nick JR.
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="Kids",Nick HD+
@@ -274,7 +274,7 @@ http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.f
 #EXTINF:0 tvg-country="BD" tvg-logo="none" group-title="Kids",Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 
-#EXTINF:-1 ,SONY YAY
+#EXTINF:-1 group-title="Kids",SONY YAY
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 
 
@@ -323,6 +323,9 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD
+https://z5ams.akamaized.net/zcinemalusd/index.m3u8?hdnts=st=1596821090~exp=1596824090~acl=/*~hmac=6cbdda7bc43e95a5df17a9edf998e261a1017b601bb7ae69e7f69245e43d5b2a
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="HINDI MOVIES",Manoranjan Movies
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
