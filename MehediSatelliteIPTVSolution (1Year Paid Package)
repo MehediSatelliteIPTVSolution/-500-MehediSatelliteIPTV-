@@ -14,7 +14,7 @@ http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BANGLA",BTV WORLD
 https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Jadoo",ATN Bangla
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
@@ -323,7 +323,7 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/playlist.m3u8
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD
-https://z5ams.akamaized.net/zcinemalusd/index.m3u8?hdnts=st=1596821090~exp=1596824090~acl=/*~hmac=6cbdda7bc43e95a5df17a9edf998e261a1017b601bb7ae69e7f69245e43d5b2a
+https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1596822375~exp=1596825375~acl=/*~hmac=81a6729a473eb488a4c71cce7fcecff3950f1da96eb0858cd08c033557e69bab
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="HINDI MOVIES",Manoranjan Movies
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
