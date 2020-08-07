@@ -88,7 +88,7 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla SD
-https://edge4.bioscopelive.com/hls/anonymous/h6HjIBDSW8Dxqja6TgMpqA/1596766049/zee_bangla.m3u8
+https://z5ams.akamaized.net/out/v1/9616200b22e049a8947aae755487d289/index.m3u8?hdnts=st=1596761219~exp=1596764219~acl=/*~hmac=21356706cfa203be6eeba5d939ddc90bd135429b0335c137a961af9f2f945ec3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="BANGLA ENT.",Zee Bangla HD
 http://ccn.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
