@@ -66,6 +66,9 @@ https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
 http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
+https://itpolly.iptv.digijadoo.net/live/channel_9/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 
