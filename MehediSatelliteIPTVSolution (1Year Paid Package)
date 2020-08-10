@@ -343,6 +343,9 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD
 http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,group-title="HINDI MOVIES",ZEE BOLLYWOOD
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="HINDI MOVIES",Manoranjan TV
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 
