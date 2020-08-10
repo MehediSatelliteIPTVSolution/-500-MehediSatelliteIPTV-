@@ -408,6 +408,7 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonySIX.in.png" group-title="Sports",SONY SIX
+https://edge4.bioscopelive.com/hls/anonymous/sony_six.m3u8
 https://edge4.bioscopelive.com/hls/anonymous/gyR87rl5W8HmJ5_fp1BfeQ/1596829674/sony_six.m3u8
 
 #EXTINF:-1 group-title="Sports", Sony LIV
