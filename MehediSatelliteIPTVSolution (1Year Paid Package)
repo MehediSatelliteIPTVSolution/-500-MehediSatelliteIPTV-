@@ -407,9 +407,14 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonySIX.in.png" group-title="Sports",SONY SIX
-https://edge4.bioscopelive.com/hls/anonymous/sony_six.m3u8
-https://edge4.bioscopelive.com/hls/anonymous/gyR87rl5W8HmJ5_fp1BfeQ/1596829674/sony_six.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
+http://otv.ftpbd.net/streams/113/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
+http://otv.ftpbd.net/streams/106/index.m3u8
 
 #EXTINF:-1 group-title="Sports", Sony LIV
 https://sonydai.akamaized.net/hls/live/2005444/DAI8ME/master.m3u8?hdnea=exp=1596896793~acl=/*~hmac=1cdbad1a742e2011f2f41876270f6a31084f67090298ccc8ba1acb6cac0e844d
