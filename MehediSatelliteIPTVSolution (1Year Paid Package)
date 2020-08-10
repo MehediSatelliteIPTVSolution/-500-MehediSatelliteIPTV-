@@ -313,6 +313,9 @@ http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES",Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI MOVIES",Sony MAX
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES",Zee Action
 http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 
