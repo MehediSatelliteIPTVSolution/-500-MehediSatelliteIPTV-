@@ -94,7 +94,7 @@ https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="BANGLA ENT.",Zee Bangla HD
-http://ccn.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
+http://172.20.1.1:8081/live/zeebanglahd-25/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla HD
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
