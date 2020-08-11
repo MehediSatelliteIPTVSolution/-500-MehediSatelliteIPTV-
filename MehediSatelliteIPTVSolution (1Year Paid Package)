@@ -189,7 +189,7 @@ http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 http://otv.ftpbd.net/streams/111/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
-http://103.77.252.58:8081/itvhd/hbo/chunks.m3u8
+http://136.243.177.164/HBO/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
 http://136.243.177.164/HBO/playlist.m3u8
@@ -461,10 +461,16 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
 http://otv.ftpbd.net/streams/114/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
