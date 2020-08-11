@@ -475,6 +475,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
+http://tvserver.dflix.live:8082/24/index.m3u8?token=182b59a40ad717d017b3c08da6523c0a72b804fa-fe5415c744964a85f36cfb3bc0a96f4e-1597170391-1597159591&remote=103.143.35.248
+
 #EXTINF:-1 group-title="Sports", Sony LIV
 https://itpolly.iptv.digijadoo.net/live/dd_sports/playlist.m3u8
 
