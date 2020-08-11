@@ -184,6 +184,15 @@ http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
+http://45.249.187.238:8081/hls/new13.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="ENGLISH ENT.",Colors Infinity
 https://edge01.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
 
@@ -467,6 +476,9 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports PK
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
+
+#EXTINF:0 group-title="Sports",ESPN HD 1
+http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Ib5FGfe.png" group-title="Sports",Ad Sports 1
 http://172.20.1.1:8081/live/ad1/chunks.m3u8?nimblesessionid=40100634&wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjAgNzozODozNyBBTSZoYXNoX3ZhbHVlPVVDMFpzQnBRM1k0MTdPaXpFbENaOFE9PSZ2YWxpZG1pbnV0ZXM9MTgw
