@@ -323,7 +323,7 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",ANIMAL PLANET HD
-http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="Documentary",History TV HD
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/playlist.m3u8
