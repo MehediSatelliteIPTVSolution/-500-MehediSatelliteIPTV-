@@ -496,11 +496,5 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
 #EXTINF:0 group-title="Sports",ESPN HD 1
 http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Ib5FGfe.png" group-title="Sports",Ad Sports 1
-http://172.20.1.1:8081/live/ad1/chunks.m3u8?nimblesessionid=40100634&wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjAgNzozODozNyBBTSZoYXNoX3ZhbHVlPVVDMFpzQnBRM1k0MTdPaXpFbENaOFE9PSZ2YWxpZG1pbnV0ZXM9MTgw
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Ib5FGfe.png" group-title="Sports",Ad Sports 2
-http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
-
 #EXTINF:-1 group-title="Sports",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
