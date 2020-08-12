@@ -303,11 +303,12 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Kids",Cheebies Asia
 https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
-#EXTINF:-1 group-title="Kids",SONY YAY
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",SONY YAY
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 
 
-#EXTINF:0 group-title="Documentary",Discovery HD 
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",National Geographic  
@@ -323,7 +324,7 @@ https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",Nat Geo HD
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 
-#EXTINF:-1,group-title="Documentary",NetGeo People
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageab5309baa10a397c.png" group-title="Documentary",NetGeo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet
@@ -383,7 +384,7 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD
 http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="HINDI MOVIES",ZEE BOLLYWOOD
+#EXTINF:0 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="HINDI MOVIES",ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/3RKYyYI.png"group-title="HINDI MOVIES",Manoranjan TV
