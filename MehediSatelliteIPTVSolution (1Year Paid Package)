@@ -183,7 +183,7 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC Action FHD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 
-#EXTINF:-1,group-title="ENGLISH MOVIES",Fox Action Movies
+#EXTINF:0 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="ENGLISH MOVIES",Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
@@ -225,7 +225,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:0 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="ENGLISH ENT.",Warner TV HD
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
-#EXTINF:-1 ,Romedy Now
+#EXTINF:0 tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="ENGLISH ENT.",Romedy Now
 http://172.20.1.1:8081/live/romedynow/chunks.m3u8?nimblesessionid=40556080&wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjAgMzo1Nzo0MiBQTSZoYXNoX3ZhbHVlPTdLRXJOZDJkbUpIOTNENnYwS1dza2c9PSZ2YWxpZG1pbnV0ZXM9MTgw
 
 
@@ -251,7 +251,8 @@ http://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" tvg-country="IN" tvg-url="" group-title="MUSIC",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 
-#EXTINF:-1 group-title="MUSIC",9XM
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",9XM
 https://z5ams.akamaized.net/out/v1/716855b8206b4d20a05850628a90feca/index.m3u8?hdnts=st=1596776926~exp=1596779926~acl=/*~hmac=17cb64f005fb51c42aa02aa893998cb7cae3d1fce728b313ad3e3658f9695a67
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="MUSIC",9x Tashan
