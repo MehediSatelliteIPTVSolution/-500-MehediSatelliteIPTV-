@@ -25,24 +25,20 @@ https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
 https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV UK
-http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjAgMjozMDoyNCBBTSZoYXNoX3ZhbHVlPXJpYVQzWnJIYURQbjBNSTY5aXNRVmc9PSZ2YWxpZG1pbnV0ZXM9MjIw
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+http://45.249.187.238:8081/hls/live1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="BANGLA",DESH TV
 https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-
+https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",Maasranga HD
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
