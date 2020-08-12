@@ -386,10 +386,10 @@ http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="HINDI MOVIES",ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="HINDI MOVIES",Manoranjan TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/3RKYyYI.png"group-title="HINDI MOVIES",Manoranjan TV
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 
-#EXTINF:-0 group-title="HINDI MOVIES",MANORANJAN MOVIES
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="HINDI MOVIES",Manoranjan Movies
 https://edge01.iptv.digijadoo.net/live/manoranjan_movies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="HINDI MOVIES",LOTUS MACAU
@@ -424,7 +424,7 @@ http://103.214.202.218:8081/live/jamuna/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="NEWS",JAMUNA TV
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 
-#EXTINF:-0 group-title="NEWS",NEWS 24
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="NEWS",NEWS 24
 http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" tvg-country="PK" tvg-url="" group-title="NEWS",Geo News
