@@ -286,7 +286,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="Kids",Nick
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
-#EXTINF:-1 group-title="Kids",Nick Sonic Bangla
+#EXTINF:0 tvg-logo="https://i.imgur.com/SyDM00x.png" group-title="Kids",Nick Sonic Bangla
 https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="Kids",,Nick JR.
