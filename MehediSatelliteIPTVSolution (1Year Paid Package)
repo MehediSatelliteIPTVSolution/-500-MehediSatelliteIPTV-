@@ -348,6 +348,9 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES",Zee Action
 http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/0Kt7S2J.png" group-title="HINDI MOVIES",Zee Action
+http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 
