@@ -296,6 +296,9 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 
+#EXTINF:0 group-title="Documentary",Discovery Science 
+http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",National Geographic  
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
