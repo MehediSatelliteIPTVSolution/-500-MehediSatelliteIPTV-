@@ -133,6 +133,9 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in.m3u8
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.",Sony SAB HD
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.",Sony SAB HD
+http://45.249.187.238:8081/hls/tsl-4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.",COLORS
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 
