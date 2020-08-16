@@ -67,8 +67,8 @@ http://103.214.202.218:8081/live/deepto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV HD
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV 
-http://172.20.1.1:8081/live/nagorik/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV HD
+http://45.249.187.238:8081/hls/new16.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
