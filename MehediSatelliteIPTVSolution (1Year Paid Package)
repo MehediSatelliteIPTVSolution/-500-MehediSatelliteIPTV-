@@ -528,7 +528,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 http://otv.ftpbd.net/streams/106/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
+http://175.41.46.16:8081/hls/4.m3u8
 
 #EXTINF:-1 group-title="Sports", DD SPORTS 
 https://itpolly.iptv.digijadoo.net/live/dd_sports/playlist.m3u8
