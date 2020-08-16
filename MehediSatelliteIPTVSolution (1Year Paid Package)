@@ -501,7 +501,7 @@ http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
+http://103.205.133.19/hls/ten2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
