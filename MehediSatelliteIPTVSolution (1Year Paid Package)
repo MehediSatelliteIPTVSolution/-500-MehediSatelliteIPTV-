@@ -95,8 +95,17 @@ https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Pakistani",Peace TV Urdu
+#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="ISLAM",Peace TV Urdu
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 group-title="ISLAM",MADANI TV
+http://45.249.187.238:8081/hls/new9.m3u8
+
+#EXTINF:-1 group-title="ISLAM",SOUDI TV (LIVE MAKKA)
+http://45.249.187.238:8081/hls/new11.m3u8
+
+#EXTINF:-1 group-title="ISLAM",SOUDI TV
+http://45.249.187.238:8081/hls/new15.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="HINDI ENT.",STAR PLUS
@@ -237,7 +246,7 @@ http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="MUSIC",Sangeet Bangla
-http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
+http://45.249.187.238:8081/hls/new7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
 http://45.249.187.238:8081/hls/new12.m3u8
