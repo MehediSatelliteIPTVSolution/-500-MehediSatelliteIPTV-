@@ -127,13 +127,7 @@ http://103.214.202.218:8081/live/zeetv-31/chunks.m3u8
 http://216.144.250.174/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
-http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
-
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
-http://heela.ddns.net:2700/live/sonyindia/index.m3u8
+http://live.banglatv.xyz:8880/TRIAL/BDIPTV/40
 
 #EXTINF:1, group-title="HINDI ENT.", SONY PAL HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in.m3u8
