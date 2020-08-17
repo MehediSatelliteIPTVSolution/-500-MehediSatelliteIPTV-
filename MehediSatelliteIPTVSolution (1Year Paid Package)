@@ -69,6 +69,9 @@ http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV HD
 http://45.249.187.238:8081/hls/new16.m3u8
 
+#EXTINF:0 group-title="BANGLA",Akash Aath
+https://itpolly.iptv.digijadoo.net/live/aakash_aath/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 
