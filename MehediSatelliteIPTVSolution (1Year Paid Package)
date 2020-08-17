@@ -97,10 +97,10 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x
 #EXTINF:-1 group-title="ISLAM",MADANI TV
 http://45.249.187.238:8081/hls/new9.m3u8
 
-#EXTINF:-1 group-title="ISLAM",SOUDI TV (LIVE MAKKA)
+#EXTINF:-1 group-title="ISLAM",IQRA TV
 http://45.249.187.238:8081/hls/new11.m3u8
 
-#EXTINF:-1 group-title="ISLAM",SOUDI TV
+#EXTINF:-1 group-title="ISLAM",IQRA MADANI
 http://45.249.187.238:8081/hls/new15.m3u8
 
 
@@ -126,7 +126,6 @@ http://216.144.250.174/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
