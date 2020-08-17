@@ -69,7 +69,7 @@ http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV HD
 http://45.249.187.238:8081/hls/new16.m3u8
 
-#EXTINF:0 group-title="BANGLA",Akash Aath
+#EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="BANGLA",Akash Aath
 https://itpolly.iptv.digijadoo.net/live/aakash_aath/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
@@ -84,7 +84,7 @@ http://45.249.187.238:8081/hls/new8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla HD
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Sony Aath
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA ENT.",Sony Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA ENT.",Ruposhi Bangla
@@ -129,14 +129,11 @@ http://216.144.250.174/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
 http://live.banglatv.xyz:8880/TRIAL/BDIPTV/40
 
-#EXTINF:1, group-title="HINDI ENT.", SONY PAL HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in.m3u8
+#EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.",Sony SAB
+http://45.249.187.238:8081/hls/tsl-4.m3u8
 
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.",Sony SAB HD
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.",Sony SAB HD
-http://45.249.187.238:8081/hls/tsl-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.",COLORS
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
@@ -169,7 +166,7 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now HD
 http://live.banglatv.xyz:8880/TRIAL/BDIPTV/181
 
-#EXTINF:-1,group-title="ENGLISH MOVIES",Romedy Now
+#EXTINF:-1,tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="ENGLISH MOVIES",Romedy Now
 http://live.banglatv.xyz:8880/TRIAL/BDIPTV/183
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX HD
@@ -232,7 +229,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:0 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="ENGLISH ENT.",Warner TV HD
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
-#EXTINF:-1 group-title="ENGLISH ENT.",ANIMAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OYQYvR.png" group-title="ENGLISH ENT.",ANIMAX
 https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
 
 
