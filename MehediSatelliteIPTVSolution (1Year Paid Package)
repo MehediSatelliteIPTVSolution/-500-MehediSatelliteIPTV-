@@ -386,9 +386,6 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES",Zee Action
 http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/0Kt7S2J.png" group-title="HINDI MOVIES",Zee Action
-http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
-
 #EXTINF:0 group-title="HINDI MOVIES",Zee ETC
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
 
@@ -462,9 +459,6 @@ http://45.249.187.238:8081/hls/live4.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/eIDDCKU.png" group-title="NEWS",Euro News
 http://45.126.83.51/qwr9ew/s/s15/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R77S4T4.png" group-title="NEWS",France 24
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/fr24.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="NEWS",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
