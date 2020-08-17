@@ -82,7 +82,7 @@ http://45.249.187.238:8081/hls/new8.m3u8
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Sony Aath
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA ENT.",Ruposhi Bangla
 https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
