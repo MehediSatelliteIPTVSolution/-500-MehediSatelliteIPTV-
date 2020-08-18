@@ -326,6 +326,9 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi
+http://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
+
 #EXTINF:0 group-title="Documentary",Discovery Science 
 http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
 
