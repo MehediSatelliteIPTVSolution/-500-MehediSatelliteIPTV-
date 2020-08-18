@@ -205,10 +205,10 @@ http://live.banglatv.xyz:8880/TRIAL/BDIPTV/150
 https://edge01.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="ENGLISH ENT.",& Prive HD
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH ENT.",& Flix HD 
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="ENGLISH ENT.",STAR WORLD
 https://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8
@@ -314,9 +314,9 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Kids",Cheebies Asia
 https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
-
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",SONY YAY
 http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD 
