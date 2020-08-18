@@ -316,7 +316,7 @@ https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",SONY YAY
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
 
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD 
