@@ -154,6 +154,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="ENGLISH MOVIES",MNX HD
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
