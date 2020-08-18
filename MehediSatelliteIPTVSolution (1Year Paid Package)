@@ -145,7 +145,7 @@ https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI ENT.",And Picture HD
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/85
+http://live.banglatv.xyz:8880/TRIAL/BDIPTV/92
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 
 #EXTINF:-1 group-title="HINDI ENT.", HUM
@@ -158,7 +158,6 @@ http://103.214.202.218:8081/live/mnx/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
-
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="ENGLISH MOVIES",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
