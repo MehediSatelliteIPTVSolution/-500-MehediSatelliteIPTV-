@@ -101,10 +101,10 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x
 #EXTINF:-1 group-title="ISLAM",MADANI TV
 http://45.249.187.238:8081/hls/new9.m3u8
 
-#EXTINF:-1 group-title="ISLAM",IQRA TV
+#EXTINF:-1 tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Saudi-Quran-Tv-Frequency-2yhl8od1usadqgkqyd0rgq.png"  group-title="ISLAM",IQRA TV
 http://45.249.187.238:8081/hls/new11.m3u8
 
-#EXTINF:-1 group-title="ISLAM",IQRA MADANI
+#EXTINF:-1 tvg-logo="https://itel.tv/itelmeta/images/channel_logo/MADINA-TV.jpg" group-title="ISLAM",IQRA MADANI
 http://45.249.187.238:8081/hls/new15.m3u8
 
 
