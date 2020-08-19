@@ -69,6 +69,9 @@ http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV HD
 http://45.249.187.238:8081/hls/new16.m3u8
 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://tv.bdtype.com/uploads/tv_image/ananda-tv.png",Ananda TV
+https://edge01.iptv.digijadoo.net/live/ananda_tv/chunks.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="BANGLA",Akash Aath
 https://itpolly.iptv.digijadoo.net/live/aakash_aath/playlist.m3u8
 
@@ -255,6 +258,9 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",9XM
 http://tvserver.dflix.live:8082/48/index.m3u8?token=c3a20512fc57799f4372cae6c11de7d16236abd0-941b90fd428c12420deb9a976ab54ef1-1597305616-1597294816&remote=103.143.35.227
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9X Jhakaas
+https://edge01.iptv.digijadoo.net/live/9x_jhakaas/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="MUSIC",9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
