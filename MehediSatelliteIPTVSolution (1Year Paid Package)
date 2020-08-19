@@ -594,3 +594,6 @@ http://live.banglatv.xyz:8880/TRIAL/BDIPTV/160
 
 #EXTINF:0 group-title="Sports", Sky Net Sports 2 HD 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/85.ts
+
+#EXTINF:0 group-title="Sports",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
