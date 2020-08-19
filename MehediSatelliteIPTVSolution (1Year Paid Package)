@@ -585,14 +585,14 @@ https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Olympic Channel 2" tvg-logo="https://www.hedex.tv/uploads/images/clip_561_1589379485_poster.png" group-title="Sports",Olympic Channel 2
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
-#EXTINF:0 group-title="Sports", Euro Sports 
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x8JJ8X.png" group-title="Sports", Euro Sports 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
 
-#EXTINF:-1,group-title="Sports",FOX Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg"group-title="Sports",FOX Sports
 http://live.banglatv.xyz:8880/TRIAL/BDIPTV/160
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports", Sky Net Sports 2 HD 
+#EXTINF:0 tvg-logo="https://i.imgur.com/hjJLLtv.jpg" group-title="Sports", Sky Net Sports 2 HD 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/85.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid TV
