@@ -328,17 +328,14 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD
-http://streamitv.multitvsolution.in/idvo/discoveryhd_540p/index.m3u8
-
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi
 http://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:0 group-title="Documentary",Discovery Science 
 http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",National Geographic  
-https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",National Geographic 
+https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="Documentary",Nat Geo Wild
@@ -354,7 +351,7 @@ http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet
-http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",ANIMAL PLANET HD
 http://45.249.187.238:8081/hls/tsl-1.m3u8
