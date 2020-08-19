@@ -280,6 +280,8 @@ https://edge01.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="MUSIC",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="MUSIC",Zing
+http://103.141.66.36/bpk-tv/10102/default/manifest.mpd?=.m3u8
 
 
 
