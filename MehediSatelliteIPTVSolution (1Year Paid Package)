@@ -531,7 +531,7 @@ http://175.41.46.16:8081/hls/4.m3u8
 https://itpolly.iptv.digijadoo.net/live/dd_sports/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN HD
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/157
+
 
 #EXTINF:-1 group-title="Sports",D sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
