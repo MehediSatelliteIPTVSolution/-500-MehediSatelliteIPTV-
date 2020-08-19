@@ -594,8 +594,9 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg"group-title="Sports",FOX Sports
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/160
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/hjJLLtv.jpg" group-title="Sports", Sky Net Sports 2 HD 
+http://45.249.187.238:8081/hls/new1.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/hjJLLtv.jpg" group-title="Sports", Sky Net Sports 2 HD 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/85.ts
