@@ -260,19 +260,19 @@ http://tvserver.dflix.live:8082/48/index.m3u8?token=c3a20512fc57799f4372cae6c11d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="MUSIC",9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
 
-#EXTINF:-1 group-title="MUSIC",9x Jalwa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="MUSIC",9x Jalwa
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
 
-#EXTINF:-1 group-title="MUSIC",Jalwa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRiJjs4.jpg" group-title="MUSIC",Jalwa
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/82.ts
 
-#EXTINF:-1 group-title="MUSIC",MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC",MTV Beats
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
-#EXTINF:0 group-title="MUSIC",Zee ETC
+#EXTINF:0  tvg-logo="https://i.imgur.com/CrvJkdS.png" group-title="MUSIC",Zee ETC
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
 
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png",Ary Musik
@@ -291,7 +291,7 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",Disney Channel
 http://45.249.187.238:8081/hls/live0.m3u8
 
-#EXTINF:-1 group-title="Kids",Disney XD
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="Kids",Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",Cartoon Network  
