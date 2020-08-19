@@ -40,7 +40,7 @@ https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA",BIJOY TV HD
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/31
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA",MOHONA TV HD
 https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
@@ -208,7 +208,7 @@ https://edge01.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
 http://oqab.life:31000/ropon@25/ropon25/105
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH ENT.",& Flix HD 
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="ENGLISH ENT.",STAR WORLD
 https://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8
@@ -546,25 +546,25 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
 http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 
 #EXTINF:0 group-title="Sports", Bein Sports HD 1
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/158
+
 
 #EXTINF:0 group-title="Sports", Bein Sports HD 2
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/156
+
 
 #EXTINF:0 group-title="Sports", Bein Sports HD 3
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/154
+
 
 #EXTINF:0 group-title="Sports",Bein Sports HD 4
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/153
+
 
 #EXTINF:0 group-title="Sports",Bein Sports HD 5
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/165
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Sports Xtra" tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",Bein Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 
 #EXTINF:-1,group-title="Sports", Willow Cricket
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/133
+
 
 #EXTINF:-1,group-title="Sports", Sky Cricket
 
