@@ -287,7 +287,7 @@ https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="Kids",DURONTO TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",Disney Channel FHD
 http://45.249.187.238:8081/hls/live0.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="Kids",Disney XD
@@ -497,8 +497,11 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:0 tvg-logo="https://i.imgur.com/Fq3x25a.png" group-title="Sports",Star Sports 1 Hindi
 http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1 HD
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1 FHD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1 FHD
+http://45.249.187.238:8081/hls/new2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
 http://175.41.46.16:8081/hls/6.m3u8
