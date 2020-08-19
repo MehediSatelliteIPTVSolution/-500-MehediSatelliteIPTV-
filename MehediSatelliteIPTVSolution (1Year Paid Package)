@@ -272,6 +272,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC",MTV Beats
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
+#EXTINF:0 group-title="MUSIC",Zee ETC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
+
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png",Ary Musik
 https://edge01.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
 
@@ -391,9 +394,6 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES",Zee Action
 http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 group-title="HINDI MOVIES",Zee ETC
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
