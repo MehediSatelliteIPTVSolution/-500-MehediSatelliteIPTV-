@@ -127,7 +127,7 @@ http://103.214.202.218:8081/live/zeetv-31/chunks.m3u8
 http://216.144.250.174/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/40
+
 
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.",Sony SAB
 http://45.249.187.238:8081/hls/tsl-4.m3u8
@@ -145,7 +145,6 @@ https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI ENT.",And Picture HD
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/92
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="HINDI ENT.", HUM
@@ -154,7 +153,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="ENGLISH MOVIES",MNX HD
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+http://oqab.life:31000/ropon@25/ropon25/100
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
@@ -295,7 +294,7 @@ http://45.249.187.238:8081/hls/live0.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",Cartoon Network  
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/135
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",CN HD+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
@@ -565,16 +564,16 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 http://live.banglatv.xyz:8880/TRIAL/BDIPTV/133
 
 #EXTINF:-1,group-title="Sports", Sky Cricket
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/146
+
 
 #EXTINF:-1,group-title="Sports", SkySports Main
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/175
+
 
 #EXTINF:-1,group-title="Sports", Sky Football
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/166
+
 
 #EXTINF:-1,group-title="Sports", Sky Premier
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/141
+
 
 #EXTINF:0 group-title="Sports",TENIS HD
 http://203.150.107.30:8081/tested2iptv/core3/playlist.m3u8
