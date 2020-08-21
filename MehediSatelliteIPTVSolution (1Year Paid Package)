@@ -166,7 +166,7 @@ http://45.249.187.238:8081/hls/tsl-8.m3u8
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now HD
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/181
+https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="ENGLISH MOVIES",Romedy Now
 http://live.banglatv.xyz:8880/TRIAL/BDIPTV/183
