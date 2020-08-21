@@ -370,6 +370,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="Documentary",History TV HD
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/playlist.m3u8
 
+#EXTINF:-1 group-title="Documentary", FOX Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+
 #EXTINF:-1 group-title="Documentary",Travelxp HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 
