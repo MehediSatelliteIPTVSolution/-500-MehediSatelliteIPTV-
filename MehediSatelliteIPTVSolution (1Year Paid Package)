@@ -208,6 +208,9 @@ http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
 http://live.banglatv.xyz:8880/TRIAL/BDIPTV/150
 
+#EXTINF:0 group-title="ENGLISH MOVIES",Hollywood HD 
+http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="ENGLISH ENT.",Colors Infinity
 https://edge01.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
 
