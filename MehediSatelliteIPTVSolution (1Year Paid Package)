@@ -151,7 +151,10 @@ https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI ENT.",And Picture HD
-http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+http://z5amshls.akamaized.net/andpicshd/tracks-v3a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI ENT.",And Picture HD
+http://45.249.187.238:8081/hls/tsl-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="HINDI ENT.", HUM
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
@@ -400,13 +403,6 @@ http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES",Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES",Sony Max
-http://live.banglatv.xyz:8880/TRIAL/BDIPTV/147
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI MOVIES",Sony Max HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in.m3u8
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax(src07).in(m3u4u)" tvg-name="Sony Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI MOVIES",Sony Max HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
