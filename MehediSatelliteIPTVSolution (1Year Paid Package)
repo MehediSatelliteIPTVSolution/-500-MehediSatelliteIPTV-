@@ -425,6 +425,9 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",Star Gold Select HD
 http://oqab.life:31000/ropon@25/ropon25/106
 
+#EXTINF:-1 group-title="HINDI MOVIES",Star Gold Select HD
+http://87.117.234.107:1935//live//STARGOLDSELECTFHD//playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES",Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
