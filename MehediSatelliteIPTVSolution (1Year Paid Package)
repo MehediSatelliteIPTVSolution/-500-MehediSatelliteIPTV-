@@ -591,6 +591,9 @@ http://fariszah.myq-see.com:8008/live/demo/demo/1945.ts
 #EXTINF:0 group-title="Sports",Bein Sports HD 6
 http://fariszah.myq-see.com:8008/live/demo/demo/1946.ts
 
+#EXTINF:0 group-title="Sports",Bein Sports HD 7
+http://fariszah.myq-see.com:8008/live/demo/demo/2261.ts
+
 #EXTINF:0 group-title="Sports",Bein Sports HD 8
 http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
 
