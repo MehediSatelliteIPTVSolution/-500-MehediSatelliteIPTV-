@@ -214,6 +214,9 @@ http://live.banglatv.xyz:8880/TRIAL/BDIPTV/150
 #EXTINF:0 group-title="ENGLISH MOVIES",Hollywood HD 
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 
+#EXTINF:0 group-title="ENGLISH MOVIES",Sony Movies
+http://51.52.156.22:8888/http/009
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="ENGLISH ENT.",Colors Infinity
 https://edge01.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
 
