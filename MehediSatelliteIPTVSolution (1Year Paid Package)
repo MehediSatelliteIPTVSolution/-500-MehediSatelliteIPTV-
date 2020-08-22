@@ -574,19 +574,31 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 
 #EXTINF:0 group-title="Sports", Bein Sports HD 1
-
+http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
 
 #EXTINF:0 group-title="Sports", Bein Sports HD 2
-
+http://fariszah.myq-see.com:8008/live/demo/demo/1942.ts
 
 #EXTINF:0 group-title="Sports", Bein Sports HD 3
-
+http://fariszah.myq-see.com:8008/live/demo/demo/1943.ts
 
 #EXTINF:0 group-title="Sports",Bein Sports HD 4
-
+http://fariszah.myq-see.com:8008/live/demo/demo/1944.ts
 
 #EXTINF:0 group-title="Sports",Bein Sports HD 5
+http://fariszah.myq-see.com:8008/live/demo/demo/1945.ts
 
+#EXTINF:0 group-title="Sports",Bein Sports HD 6
+http://fariszah.myq-see.com:8008/live/demo/demo/1946.ts
+
+#EXTINF:0 group-title="Sports",Bein Sports HD 8
+http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
+
+#EXTINF:0 group-title="Sports",Bein Sports HD 9
+http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
+
+#EXTINF:0 group-title="Sports",Bein Sports HD 10
+http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
 
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",Bein Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
