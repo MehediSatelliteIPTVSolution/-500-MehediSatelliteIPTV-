@@ -344,13 +344,12 @@ http://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" tvg-country="IN" tvg-url="" group-title="MUSIC",B4U Music
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="8XM" tvg-logo="https://n7.nextpng.com/sticker-png/58/527/sticker-png-pakistan-8xm-television-channel-streaming-media-non-stop-miscellaneous-television-text-logo.png" group-title="MUSIC",8XM
 http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",9XM
-http://tvserver.dflix.live:8082/48/index.m3u8?token=c3a20512fc57799f4372cae6c11de7d16236abd0-941b90fd428c12420deb9a976ab54ef1-1597305616-1597294816&remote=103.143.35.227
+http://45.249.187.238:8081/hls/new23.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9X Jhakaas
 https://edge01.iptv.digijadoo.net/live/9x_jhakaas/chunks.m3u8
@@ -394,8 +393,8 @@ http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="Kids",Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",Cartoon Network  
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",Cartoon Network HD
+http://45.249.187.238:8081/hls/new14.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",CN HD+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
