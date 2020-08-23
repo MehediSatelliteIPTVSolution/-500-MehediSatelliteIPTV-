@@ -618,7 +618,7 @@ http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,group-title="Sports", Sky Premier
 
-#EXTINF:0 group-title="Sports",Ads Sports
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120958.jpg" group-title="Sports", Ads Sports Cricket
 http://212.47.252.54/hls/stream.m3u8
 
 #EXTINF:0 group-title="Sports",TENIS HD
