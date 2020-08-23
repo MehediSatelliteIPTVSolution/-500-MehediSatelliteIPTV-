@@ -544,7 +544,7 @@ http://otv.ftpbd.net/streams/116/index.m3u8
 http://oqab.life:31000/ropon@25/ropon25/246
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
-http://175.41.46.16:8081/hls/6.m3u8
+http://tv.realstation.live:8080/j-SonyTen1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
 http://otv.ftpbd.net/streams/105/index.m3u8
@@ -589,7 +589,7 @@ https://itpolly.iptv.digijadoo.net/live/dd_sports/playlist.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
@@ -600,6 +600,9 @@ http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",Bein Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sports", Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
 #EXTINF:-1 group-title="Sports" GEO Sports
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
