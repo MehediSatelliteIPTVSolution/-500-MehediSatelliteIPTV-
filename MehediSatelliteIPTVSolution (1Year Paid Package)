@@ -168,9 +168,8 @@ http://45.249.187.238:8081/hls/tsl-2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="HINDI ENT.", HUM
 https://edge01.iptv.digijadoo.net/live/hum_masala/playlist.m3u8
 
-#EXTINF:-1 group-title="HINDI ENT.", Ary Digital Asia
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0kVzKa6.jpg" group-title="HINDI ENT.", Ary Digital Asia
 https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA CINEMA",Jalsha Movies
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
