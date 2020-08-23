@@ -242,7 +242,7 @@ https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="ENGLISH MOVIES",MNX HD
-http://oqab.life:31000/ropon@25/ropon25/100
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
