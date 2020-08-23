@@ -436,7 +436,9 @@ http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",National Geographic 
 https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary", NAT GEO HD
+http://line.hi-ott.net/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63557
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="Documentary",Nat Geo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
