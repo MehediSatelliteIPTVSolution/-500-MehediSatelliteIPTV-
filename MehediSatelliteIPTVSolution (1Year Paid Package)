@@ -215,7 +215,7 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD
-http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD
 http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8
