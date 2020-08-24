@@ -546,7 +546,7 @@ http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 http://oqab.life:31000/ropon@25/ropon25/246
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
-http://tv.realstation.live:8080/j-SonyTen1/tracks-v1a1/mono.m3u8
+http://103.205.133.19/hls/ten1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
 http://otv.ftpbd.net/streams/105/index.m3u8
