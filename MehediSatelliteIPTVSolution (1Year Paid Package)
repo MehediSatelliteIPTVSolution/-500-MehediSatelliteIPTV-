@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="BANGLA",BTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",Sangsad TV
 https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
@@ -144,7 +144,7 @@ http://103.205.133.44:1935/live/sonyhdcm/chunklist.m3u8
 http://45.249.187.238:8081/hls/tsl-4.m3u8
 
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.",Sony SAB HD
-http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.",COLORS
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
@@ -174,11 +174,11 @@ https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA CINEMA",Jalsha Movies HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA CINEMA",Zee Bangla Cinema
-http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES",Sony Max
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
@@ -196,16 +196,16 @@ http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
-https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
 #EXTINF:-1 group-title="HINDI MOVIES",Star Gold Select HD
-http://oqab.life:31000/ropon@25/ropon25/106
+
 
 #EXTINF:-1 group-title="HINDI MOVIES",Star Gold Select HD
-http://87.117.234.107:1935//live//STARGOLDSELECTFHD//playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES",Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
@@ -226,7 +226,7 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 http://45.249.187.238:8081/hls/tsl-7.m3u8
 
 #EXTINF:0 group-title="HINDI MOVIES",Color Cineplex HD
-http://oqab.life:31000/ropon@25/ropon25/117
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/3RKYyYI.png"group-title="HINDI MOVIES",Manoranjan TV
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
@@ -246,7 +246,7 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="ENGLISH MOVIES",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
@@ -297,10 +297,10 @@ http://51.52.156.22:8888/http/009
 https://edge01.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="ENGLISH ENT.",& Prive HD
-http://oqab.life:31000/ropon@25/ropon25/105
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH ENT.",& Flix HD 
-http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="ENGLISH ENT.",STAR WORLD
 https://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8
@@ -338,10 +338,10 @@ http://45.249.187.238:8081/hls/new12.m3u8
 http://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" tvg-country="IN" tvg-url="" group-title="MUSIC",B4U Music
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="8XM" tvg-logo="https://n7.nextpng.com/sticker-png/58/527/sticker-png-pakistan-8xm-television-channel-streaming-media-non-stop-miscellaneous-television-text-logo.png" group-title="MUSIC",8XM
-http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
+
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",9XM
 http://45.249.187.238:8081/hls/new23.m3u8
@@ -353,13 +353,13 @@ https://edge01.iptv.digijadoo.net/live/9x_jhakaas/chunks.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="MUSIC",9x Jalwa
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRiJjs4.jpg" group-title="MUSIC",Jalwa
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/82.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC",MTV Beats
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
