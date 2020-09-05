@@ -5,6 +5,7 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/53.m3u8
 http://103.205.133.14/hls/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",Sangsad TV
+http://ddn.oncast.me:1934/dlive/sp1.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA", BTV CHATTOGRAM
 
@@ -15,7 +16,10 @@ http://103.205.133.14/hls/btv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/6.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
+http://45.249.187.238:8081/hls/live7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
 
@@ -30,7 +34,7 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/65.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/54.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
-
+http://45.249.187.238:8081/hls/live1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
 
@@ -39,7 +43,7 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/54.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/61.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
-
+http://103.135.208.14/live/ibox/bd/25.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
 http://45.249.187.238:8081/hls/new6.m3u8
@@ -48,10 +52,10 @@ http://45.249.187.238:8081/hls/new6.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="BANGLA",DESH TV HD
-
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
-
+http://103.135.208.14/live/ibox/bd/28.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/56.m3u8
@@ -73,12 +77,14 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/50.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA",SA TV HD
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
-
+http://45.249.187.238:8081/hls/live3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
-
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
 
@@ -145,6 +151,7 @@ http://103.205.133.14/hls/sony8.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="ISLAM", Peace TV Bangla
+http://103.135.208.14/live/ibox/bd/34.m3u8
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 
@@ -362,6 +369,9 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="ENGLISH MOVIES",Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="ENGLISH MOVIES",Fox Action Movies
+http://103.135.208.14/live/ibox/bd/136.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
 http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
@@ -621,7 +631,7 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/49.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/7.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="NEWS",Ekattor HD
-
+http://45.249.187.238:8081/hls/live6.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="NEWS",Ekattor HD
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/11.m3u8
@@ -648,7 +658,7 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/17.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/13.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="NEWS",JAMUNA TV HD
-https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+http://45.249.187.238:8081/hls/live2.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="NEWS",NEWS 24 FHD
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/18.m3u8
