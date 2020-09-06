@@ -5,7 +5,6 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/53.m3u8
 http://103.205.133.14/hls/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",Sangsad TV
-http://ddn.oncast.me:1934/dlive/sp1.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA", BTV CHATTOGRAM
 
@@ -13,7 +12,7 @@ http://ddn.oncast.me:1934/dlive/sp1.stream/chunks.m3u8
 
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
-
+http://45.249.187.238:8081/hls/new17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/6.m3u8
@@ -73,7 +72,7 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/51.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/50.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA",ASIAN TV HD
-
+http://45.249.187.238:8081/hls/new4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA",SA TV HD
 
@@ -111,7 +110,7 @@ http://45.249.187.238:8081/hls/new16.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/16.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="BANGLA",Akash Aath
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/32.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="BANGLA",Akash Aath
 
@@ -206,7 +205,7 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/38.m3u8
 http://103.205.133.44:1935/live/sonyhdcm/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.",Sony SAB FHD
-http://45.249.187.238:8081/hls/tsl-4.m3u8
+
 
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.",Sony SAB HD
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
@@ -257,7 +256,7 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/31.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA CINEMA",Zee Bangla Cinema
-http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES",Sony Max
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/77.m3u8
@@ -281,13 +280,13 @@ http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
+http://45.249.187.238:8081/hls/tsl-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold HD
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold HD
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold HD
-http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
 
 #EXTINF:-1 group-title="HINDI MOVIES",Star Gold Select HD
 
