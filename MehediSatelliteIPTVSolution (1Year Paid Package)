@@ -21,10 +21,9 @@ http://45.249.187.238:8081/hls/new17.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8?@IPTVSoltuion
-http://iptv.kitv.live:1935/live/Shari/MTV-P/4.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
-http://45.249.187.238:8081/hls/live7.m3u8?@IPTVSoltuion
+http://iptv.kitv.live:1935/live/Shari/MTV-P/4.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
 
@@ -40,10 +39,9 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/9.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8?@IPTVSoltuion
-http://iptv.kitv.live:1935/live/Shari/MTV-P/11.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
-http://45.249.187.238:8081/hls/live1.m3u8?@IPTVSoltuion
+http://iptv.kitv.live:1935/live/Shari/MTV-P/11.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8?@IPTVSolution
@@ -89,17 +87,11 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/8.m3u8?@IPTVSoltuion
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8?@IPTVSoltuion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
-http://45.249.187.238:8081/hls/live3.m3u8?@IPTVSoltuion
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/5.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
 http://45.249.187.238:8081/hls/new22.m3u8?@IPTVSoltuion
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV FHD
-http://45.249.187.238:8081/hls/live5.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV FHD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/6.m3u8?@IPTVSoltuion
@@ -225,23 +217,19 @@ http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="HINDI ENT.",COLORS RISHTEY
 
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" group-title="HINDI ENT.",And TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RI1G0qY.jpg" group-title="HINDI ENT.",And TV
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvsd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" group-title="HINDI ENT.",And TV HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/RI1G0qY.jpg" group-title="HINDI ENT.",And TV
+#EXTINF: -1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" group-title="HINDI ENT.",And TV HD
 http://103.205.133.14/hls/andtv.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI ENT.",And Picture HD
 http://z5amshls.akamaized.net/andpicshd/tracks-v3a1/playlist.m3u8?@IPTVSoltuion
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI ENT.",And Picture HD
-http://45.249.187.238:8081/hls/tsl-2.m3u8?@IPTVSoltuion
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="HINDI ENT.", HUM
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0kVzKa6.jpg" group-title="HINDI ENT.", Ary Digital Asia
 
