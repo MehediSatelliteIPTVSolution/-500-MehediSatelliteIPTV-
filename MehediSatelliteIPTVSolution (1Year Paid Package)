@@ -838,8 +838,8 @@ http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",D sports
 
 
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="Sports",PTV Sports
+http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/2185
 
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
