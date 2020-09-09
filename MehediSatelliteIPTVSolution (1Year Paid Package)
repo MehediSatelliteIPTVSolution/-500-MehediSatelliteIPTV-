@@ -847,16 +847,16 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 group-title="Sports" GEO Sports
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="Sports",Arena Sports 1 
+#EXTINF:-1,tvg-logo="https://images.app.goo.gl/iYCXeLmgn3473wF17" group-title="Sports",Arena Sports 1 
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/898
 
-#EXTINF:-1,group-title="Sports", Arena Sports 2
+#EXTINF:-1,tvg-logo="https://images.app.goo.gl/ZuKRXmfuF8XtPRcS7" group-title="Sports", Arena Sports 2
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/897
 
-#EXTINF:-1,group-title="Sports", Arena Sports 3 
+#EXTINF:-1,tvg-logo="https://images.app.goo.gl/HiucQ2uQb7GS6Ayn6"group-title="Sports", Arena Sports 3 
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/896
 
-#EXTINF:-1,group-title="Sports", Arena Sports 4 
+#EXTINF:-1,tvg-logo="https://images.app.goo.gl/K7sEom2bd1coLuSx6"group-title="Sports", Arena Sports 4 
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/895
 
 #EXTINF:-1,group-title="Sports", Sky Premier
