@@ -7,7 +7,7 @@ http://103.205.133.14/hls/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",Sangsad TV
 
 
-#EXTINF:-1 group-title="BANGLA", BTV CHATTOGRAM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTO-S_2m91zxm2KECBNAR5rzjoCrxPWVqKQKcsUUwEZ9raUkbq&usqp=CAU" group-title="BANGLA", BTV CHATTOGRAM
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8?@IPTVSolution 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BANGLA",BTV WORLD
@@ -950,5 +950,5 @@ http://as3.digitalsynapsebd.com:8263/;stream.mp3
 #EXTINF: -1 group-title="RADIO",Bangladesh Betar Chattogram
 http://as2.digitalsynapsebd.com:9236/;stream.mp3
 
-#EXTINF: -1 group-title="RADIO",Bangladesh Betar Rajshahi 
+#EXTINF: -1 group-title="RADIO",Bangladesh Betar Khulna 
 http://as2.digitalsynapsebd.com:9252/;stream.mp3
