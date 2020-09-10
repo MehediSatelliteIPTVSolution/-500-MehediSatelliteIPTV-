@@ -810,18 +810,22 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
 http://otv.ftpbd.net/streams/105/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
-
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2
 http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2
 http://172.20.1.1:8081/live/ten2hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
+http://103.214.202.218:8081/live/sonysix/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
