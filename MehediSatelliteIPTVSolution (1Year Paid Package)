@@ -930,3 +930,19 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120937.jpg" group-title="Sports", Dubai Sports 3
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
+
+
+
+
+
+#EXTINF: -1 group-title="RADIO",Radio Foorti
+http://119.148.23.88:1021/;?@IPTVSoltuion
+
+#EXTINF: -1 group-title="RADIO",Bangladesh Betar Dhaka
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+
+#EXTINF: -1 group-title="RADIO",Bangladesh Betar Chattogram
+http://as2.digitalsynapsebd.com:9236/;stream.mp3
+
+#EXTINF: -1 group-title="RADIO",Bangladesh Betar Rajshahi 
+http://as2.digitalsynapsebd.com:9252/;stream.mp3
