@@ -42,6 +42,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/9.m3u8?@IPTVSoltuion
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
+http://103.214.202.218:8081/live/rtv/chunks.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/11.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
@@ -77,7 +78,7 @@ http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8?@IPTVSolution 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA",MOHONA TV HD
-
+http://103.214.202.218:8081/live/mohona/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA",ASIAN TV HD
 
