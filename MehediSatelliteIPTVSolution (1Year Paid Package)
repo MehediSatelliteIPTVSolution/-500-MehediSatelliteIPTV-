@@ -33,7 +33,7 @@ http://172.20.1.1:8081/live/ekushey/playlist.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/15.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
-
+http://103.214.202.218:8081/live/ntv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/9.m3u8?@IPTVSoltuion
@@ -66,6 +66,9 @@ http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",Maasranga HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/1.m3u8?@IPTVSoltuion
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA",BIJOY TV HD
+http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA",BIJOY TV HD
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
