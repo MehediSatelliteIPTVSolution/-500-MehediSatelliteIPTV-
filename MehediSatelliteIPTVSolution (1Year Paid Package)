@@ -348,16 +348,16 @@ https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8?@IPTVSolution
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="HINDI MOVIES",LOTUS MACAU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YDTgl6F.jpg" group-title="IND. MOVIES",Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YDTgl6F.jpg" group-title="HINDI MOVIES",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8?@@IPTVSolution
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/drvLxV3.png" group-title="IND. MOVIES",Lollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/drvLxV3.png" group-title="HINDI MOVIES",Lollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?@@IPTVSolution
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eDEt9Ai.png" group-title="IND. MOVIES",Kollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDEt9Ai.png" group-title="HINDI MOVIES",Kollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in_480p/index.m3u8?@IPTVSolution
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RAkJGW4.jpg" group-title="IND. MOVIES",Mollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAkJGW4.jpg" group-title="HINDI MOVIES",Mollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in_480p/index.m3u8?@IPTVSolution 
 
 
