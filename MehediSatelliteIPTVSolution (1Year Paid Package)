@@ -482,7 +482,7 @@ http://172.20.1.1:8081/live/gaanbangla-21/chunks.m3u8
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="MUSIC",Sangeet Bangla
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/70.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="MUSIC",Sangeet Bangla
 http://45.249.187.238:8081/hls/new7.m3u8
@@ -576,7 +576,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nick
-http://103.135.208.14/live/ibox/bd/93.m3u8
+
 
 #EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids",Nick Sonic Bangla
 
@@ -595,7 +595,7 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="Kids",Mr Bean Show
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Kids",Cheebies Asia
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8?@IPTVSoltuion
 
 #EXTINF:0 group-title="Kids",EBC Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w168363901.m3u8
@@ -675,7 +675,7 @@ http://103.135.208.14/live/ibox/bd/93.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
 
 #EXTINF:-1 group-title="Documentary",BBC Lifestyle 
-http://103.135.208.14/live/ibox/bd/130.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="Documentary",History TV HD
 
@@ -754,7 +754,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8?@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/56.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
 
@@ -792,7 +792,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8?@IPTVSoltuion
 http://45.249.187.238:8081/hls/new2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
-http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Sports",Star Sports 3
 
@@ -828,13 +828,15 @@ http://172.20.1.1:8081/live/ten2hd/chunks.m3u8
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
+http://iptv.kitv.live:1935/live/Shari/MTV-P/49.m3u8?@IPTVSoltuion
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
 http://103.214.202.218:8081/live/sonysix/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
-http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Sports", DD SPORTS 
 
@@ -846,7 +848,7 @@ http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Sports",D sports
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports
 http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/2185
