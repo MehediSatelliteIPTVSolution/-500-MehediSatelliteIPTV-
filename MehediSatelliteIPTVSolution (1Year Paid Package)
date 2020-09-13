@@ -579,8 +579,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",CN HD+
 http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8?@IPTVSoltuion
 
-#EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nick
-
+#EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nickelodeon 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/68.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids",Nick Sonic Bangla
 
