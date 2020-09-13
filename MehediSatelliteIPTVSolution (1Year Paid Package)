@@ -642,6 +642,9 @@ https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8?@IPTVSolut
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8?@IPTVSolution
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary",TLC ENGLISH
+http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary",TLC ENGLISH
 https://streamitv.multitvsolution.in/idvo/tlceng.m3u8?@IPTVSolution
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary",TLC HINDI
