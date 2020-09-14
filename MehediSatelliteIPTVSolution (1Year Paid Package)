@@ -139,10 +139,10 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8?@IPTVSoltuion
 http://172.20.1.1:8081/live/zeebanglahd-25/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla
-
+http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla HD
-
+http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA ENT.",Sony Aath
 http://ccn.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8?@IPTVSoltuion
@@ -216,7 +216,7 @@ http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8?@IPTVSoltuion
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.",COLORS HD
-
+http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.",COLORS HD
 
