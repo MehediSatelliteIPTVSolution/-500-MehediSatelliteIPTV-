@@ -327,6 +327,9 @@ http://45.249.187.238:8081/hls/tsl-3.m3u8?@IPTVSoltuion
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIES",Zee ANMOL CINEMA
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zanmolcnm/index.m3u8 
 
+#EXTINF:-1 group-title="HINDI MOVIES",ZEE BIOSKOP
+http://210.210.155.35/session/c2dff430-f786-11ea-8442-ae06b0bdb327/qwr9ew/s/s32/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="HINDI MOVIES",And Picture
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicssd/index.m3u8 
 
