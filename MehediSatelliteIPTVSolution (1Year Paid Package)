@@ -943,8 +943,11 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebas
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 
 
-#EXTINF:0 group-title="Sports",Ad Sports 1
+#EXTINF:0 group-title="Sports",Setanta Sorts 1
+http://ott-cdn.ucom.am/s81/04.m3u8?@IPTVSolution
 
+#EXTINF:0 group-title="Sports",Setanta Sorts 2
+http://ott-cdn.ucom.am/s82/04.m3u8?@IPTVSolution
 
 #EXTINF:0 group-title="Sports",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?
