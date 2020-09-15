@@ -133,7 +133,7 @@ http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla SD
-http://103.205.133.50/hls/zeebangla.m3u8
+http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="BANGLA ENT.",Zee Bangla HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8?@IPTVSoltuion
@@ -862,7 +862,7 @@ http://otv.ftpbd.net/streams/106/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN
-
+http://103.49.168.172:8081/ebox/espn/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN
 
