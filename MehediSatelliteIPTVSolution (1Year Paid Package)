@@ -414,28 +414,28 @@ http://103.47.132.165/PLTV/88888888/224/3221227121/1.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="ENGLISH MOVIES",Fox Action Movies
 http://103.135.208.14/live/ibox/bd/136.m3u8?@IPTVSoltuion
 
-#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://i.imgur.com/2VYyqS9.png",HBO Signature
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
-
-#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://i.imgur.com/nOiPsyr.png",HBO Hits
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
-
-#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
-
-#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://i.imgur.com/9whd4No.png",HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9whd4No.png"group-title="ENGLISH MOVIES",HBO
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
-http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8?@IPTVSoltuion
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
-http://220.158.149.28:8180/TV00000000000000000166@HHZT;LIVE
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO Family 
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
+http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8?@IPTVSoltuion
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO Chinese 
+http://220.158.149.28:8180/TV00000000000000000166@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2VYyqS9.png"group-title="ENGLISH MOVIES",HBO Signature
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nOiPsyr.png"group-title="ENGLISH MOVIES",HBO Hits
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p5doERm.png"group-title="ENGLISH MOVIES",HBO Family
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p5doERm.png"group-title="ENGLISH MOVIES",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/4.m3u8?token=Zalogi
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO Goesia
