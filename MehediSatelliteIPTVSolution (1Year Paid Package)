@@ -592,6 +592,9 @@ http://45.249.187.238:8081/hls/new3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Kids",Disney 
 http://45.249.187.238:8081/hls/live0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Kids",Disney 
+http://zer0live.hjkm.info:11990/neptune/disneychannelhindi/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="Kids",Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 
