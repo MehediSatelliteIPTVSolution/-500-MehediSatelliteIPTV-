@@ -262,12 +262,9 @@ http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA CINEMA",Jalsha Movies HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8?@IPTVSoltuion
-http://103.135.208.14/live/ibox/bd/39.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA CINEMA",Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?@IPTVSoltuion
-
-
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES",Sony Max
 http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
