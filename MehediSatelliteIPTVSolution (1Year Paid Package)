@@ -132,7 +132,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/98.m3u8?@IPTVSoltuion
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/126098
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uvggul87tnf930n/SJ.jpg" group-title="BANGLA ENT.",Star Jalsha
-http://163.172.29.246:8081/globeworld2020/starjalsha/chunks.m3u8
+http://randomserver.site:2086/live/crystal/12345/94777.m3u8?@IPTVSoltuion 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8?@IPTVSoltuion
@@ -147,10 +147,10 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8?@IPTVSoltuion
 http://172.20.1.1:8081/live/zeebanglahd-25/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla
-http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla HD
-http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA ENT.",Sony Aath
 http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8?@IPTVSoltuion
@@ -635,6 +635,9 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w168363901.m3
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",SONY YAY
 http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8?@IPTVSolution
 
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery HD 
+http://45.249.187.238:8081/hls/tsl-8.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery HD 
 http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8?@IPTVSolution
