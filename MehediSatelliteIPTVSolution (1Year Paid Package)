@@ -683,18 +683,18 @@ https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8?@IPTVSolution
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",National Geographic 
-http://103.47.132.164/PLTV/88888888/224/3221227177/1.m3u8?@IPTVSoltuion
-
-#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary", NAT GEO HD
-http://line.hi-ott.net/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63557
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="Documentary",Nat Geo Wild
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
+http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@IPTVSolution 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="Documentary",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
+https://www.fanmingming.cn/hls/natlgeo.m3u8
 
+#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary ",NAT GEO HD
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",Nat Geo HD
 
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageab5309baa10a397c.png" group-title="Documentary",NetGeo People
