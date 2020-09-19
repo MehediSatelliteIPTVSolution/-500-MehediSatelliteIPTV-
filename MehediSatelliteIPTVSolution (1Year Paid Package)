@@ -221,7 +221,7 @@ http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8?@IPTVSoltuion
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.",COLORS
-
+http://zer0live.hjkm.info:11990/neptune/colorstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.",COLORS HD
 http://zer0live.hjkm.info:11990/juno/colorstvhd/chunks.m3u8
