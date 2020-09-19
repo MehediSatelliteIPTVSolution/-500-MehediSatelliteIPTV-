@@ -846,6 +846,9 @@ http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
 http://45.249.187.238:8081/hls/new1.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
+http://103.211.185.98:8082/26/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Star Sports 3
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
