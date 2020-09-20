@@ -218,6 +218,7 @@ http://103.135.208.14/live/ibox/bd/43.m3u8
 http://103.205.133.44:1935/live/sonyhdcm/chunklist.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.",Sony SAB FHD
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.",COLORS
 http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8
@@ -990,7 +991,7 @@ http://ott-cdn.ucom.am/s82/04.m3u8?@IPTVSolution
 #EXTINF:0 group-title="Sports",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",AD Sports
+#EXTINF:-1 tvg-logo="" group-title="Sports",ADS Sports
 http://212.47.252.54/hls/stream.m3u8
 
 #EXTINF:-1,group-title="Sports", AD Sports 1 HD
