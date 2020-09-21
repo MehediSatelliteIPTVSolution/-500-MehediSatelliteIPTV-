@@ -821,6 +821,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Fq3x25a.png" group-title="Sports",Star Sports 1 Hindi
+http://103.211.185.98:8082/25/index.m3u8?token=7610799ac33b805b4f1f4020e5d714ffbcd22c68-507cd881061b829e9283ebd933ed38ef-1600706062-1600695262&remote=103.143.35.251
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8?@IPTVSoltuion
