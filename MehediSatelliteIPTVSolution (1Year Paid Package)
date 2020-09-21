@@ -840,6 +840,7 @@ http://45.249.187.238:8081/hls/new1.m3u8
 http://103.211.185.98:8082/26/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Star Sports 3
+http://103.135.208.14/live/ibox/bd/53.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
 http://103.84.253.5/live/fastfeed1002/index.m3u8
