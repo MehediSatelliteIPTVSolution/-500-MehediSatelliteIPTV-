@@ -827,7 +827,7 @@ http://103.211.185.98:8082/25/index.m3u8?token=7610799ac33b805b4f1f4020e5d714ffb
 http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1 HD
-
+http://aklivetv.com:8080/starsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1 HD
 http://45.249.187.238:8081/hls/new2.m3u8
