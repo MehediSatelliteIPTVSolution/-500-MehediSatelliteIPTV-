@@ -100,10 +100,10 @@ http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://iptv.kitv.live:1935/live/Shari/MTV-P/7.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/5.m3u8?@IPTVSoltuion
+http://45.249.187.238:8081/hls/new22.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
-http://45.249.187.238:8081/hls/new22.m3u8?@IPTVSoltuion
+http://iptv.kitv.live:1935/live/Shari/MTV-P/5.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV HD
 http://103.205.133.44:1935/live/Gtv/chunklist.m3u8
