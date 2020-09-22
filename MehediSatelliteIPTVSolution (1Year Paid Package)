@@ -141,13 +141,13 @@ http://103.211.185.98:8082/30/index.m3u8?token=f0d2a7f97879c1fe60c41ead5d6631674
 http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla SD
-http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
+https://z5ams.akamaized.net/out/v1/9616200b22e049a8947aae755487d289/index.m3u8?hdnts=st=1600750492~exp=1600753492~acl=/*~hmac=4eb5faef446fdcb5a4b08b9dd0088dc0889d2b4fa43a586cf9ca64547b52e6cc
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="BANGLA ENT.",Zee Bangla HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="BANGLA ENT.",Zee Bangla HD
-http://172.20.1.1:8081/live/zeebanglahd-25/playlist.m3u8
+https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1600750221~exp=1600753221~acl=/*~hmac=6d1baddf2caff9c5b8a2b07ad079022a5260c08c182a525a0c2bc2a02334d189
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla
 
